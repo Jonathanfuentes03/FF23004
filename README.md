@@ -41,13 +41,14 @@ El archivo `multiplicacion.asm` realiza la multiplicación entre dos números en
 
 ## Requisitos del sistema
 
-Para ejecutar y/o recompilar los archivos de este proyecto, necesitas:
+Para ejecutar y recompilar los archivos de este proyecto, se necesita lo siguiente
 
 - Sistema operativo basado en Linux (preferentemente x86_64)
 - NASM (Netwide Assembler)
 - `ld` o `gcc` para enlazado
 
 Instalación de NASM en Ubuntu/Debian:
+En el terminal de powershell ejecutar los siguientes comandos 
 ```bash
 sudo apt update
 sudo apt install nasm
